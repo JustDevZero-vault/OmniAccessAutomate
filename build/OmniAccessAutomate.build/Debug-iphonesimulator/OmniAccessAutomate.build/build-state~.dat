@@ -1,313 +1,0 @@
-TOmniAccessAutomate
-v7
-r0
-t298903634.412642
-cCheck dependencies
-cProcessInfoPlistFile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/Info.plist OmniAccessAutomate-Info.plist
-cCompileXIB /Users/omniaccess/OmniAccessAutomate/MainWindow.xib
-cCompileXIB /Users/omniaccess/OmniAccessAutomate/SecondView.xib
-cCompileXIB /Users/omniaccess/OmniAccessAutomate/FirstView.xib
-cCpResource build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccess-MNS-Logo-PIX.png ../Pictures/OmniAccess-MNS-Logo-PIX.png
-cCpResource build/Debug-iphonesimulator/OmniAccessAutomate.app/icon.png ../icon.png
-cProcessPCH /var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch.gch OmniAccessAutomate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/main.o /Users/omniaccess/OmniAccessAutomate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomateAppDelegate.o /Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/FirstViewController.o /Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate normal i386
-cGenerateDSYMFile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app.dSYM /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate
-cTouch /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004B69B45C00000000000000EE
-t1265218652
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Users/omniaccess/OmniAccessAutomate/../Pictures/OmniAccess-MNS-Logo-PIX.png
-c000000004AA77BF4000000000002FD63
-t1252490228
-s195939
-
-N/Users/omniaccess/OmniAccessAutomate/../icon.png
-c000000004BFFD11C0000000000000FA0
-t1275056412
-s4000
-
-N/Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.h
-c000000004BFFD6930000000000000113
-t1275057811
-s275
-i<UIKit/UIKit.h>
-
-N/Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m
-c000000004BFFD71F0000000000000264
-t1275057951
-s612
-i"FirstViewController.h"
-
-N/Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.h
-c000000004BFFD6A300000000000001F4
-t1275057827
-s500
-i<UIKit/UIKit.h>
-
-N/Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m
-c000000004BFFD72500000000000003E7
-t1275057957
-s999
-i"OmniAccessAutomateAppDelegate.h"
-
-N/Users/omniaccess/OmniAccessAutomate/FirstView.xib
-c000000004BFFD72B000000000000222F
-t1275057963
-s8751
-
-N/Users/omniaccess/OmniAccessAutomate/MainWindow.xib
-c000000004BFFD7C40000000000003924
-t1275058116
-s14628
-
-N/Users/omniaccess/OmniAccessAutomate/OmniAccessAutomate_Prefix.pch
-c000000004BFFD6DA00000000000000CD
-t1275057882
-s205
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/omniaccess/OmniAccessAutomate/SecondView.xib
-c000000004BFFD8800000000000001F04
-t1275058304
-s7940
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app
-t1277210834
-s340
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app.dSYM
-t1277210834
-s102
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/FirstView.nib
-t1277210830
-s2014
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/Info.plist
-t1277210822
-s677
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/MainWindow.nib
-t1277210830
-s3221
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccess-MNS-Logo-PIX.png
-t1277210831
-s195939
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate
-t1277210834
-s19668
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/PkgInfo
-t1277210822
-s8
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/SecondView.nib
-t1277210830
-s2399
-
-N/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/icon.png
-t1277210831
-s4000
-
-N/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/FirstViewController.o
-t1277210833
-s31016
-
-N/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomate.LinkFileList
-c000000004BFFC51E00000000000001D2
-t1275053342
-s466
-
-N/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomateAppDelegate.o
-t1277210833
-s41076
-
-N/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/main.o
-t1277210833
-s5944
-
-N/Users/omniaccess/OmniAccessAutomate/main.m
-c000000004BFFD729000000000000016A
-t1275057961
-s362
-i<UIKit/UIKit.h>
-
-N/var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch.gch
-t1277210833
-s13026768
-
-NOmniAccessAutomate-Info.plist
-c000000004BFFD62B0000000000000394
-t1275057707
-s916
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies298903621#298903622#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/FirstViewController.o /Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s298903633.747104
-e298903633.806163
-r1
-xCompileC
-xbuild/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/FirstViewController.o
-x/Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m298903633#298903633#0(0"0(0#0#66"/Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m4300911832#2095"    cd /Users/omniaccess/OmniAccessAutomate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-generated-files.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-own-target-headers.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-all-target-headers.hmap -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-project-headers.hmap -F/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator -I/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/include -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources/i386 -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources -include /var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch -c /Users/omniaccess/OmniAccessAutomate/Classes/FirstViewController.m -o /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/FirstViewController.o0#
-
-CCompileC build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomateAppDelegate.o /Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s298903633.395791
-e298903633.746986
-r1
-xCompileC
-xbuild/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomateAppDelegate.o
-x/Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m298903633#298903633#0(0"0(0#0#76"/Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m4300911832#2115"    cd /Users/omniaccess/OmniAccessAutomate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-generated-files.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-own-target-headers.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-all-target-headers.hmap -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-project-headers.hmap -F/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator -I/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/include -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources/i386 -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources -include /var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch -c /Users/omniaccess/OmniAccessAutomate/Classes/OmniAccessAutomateAppDelegate.m -o /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomateAppDelegate.o0#
-
-CCompileC build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/main.o /Users/omniaccess/OmniAccessAutomate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s298903633.394294
-e298903633.748417
-r1
-xCompileC
-xbuild/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/main.o
-x/Users/omniaccess/OmniAccessAutomate/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@51"Compile /Users/omniaccess/OmniAccessAutomate/main.m298903633#298903633#0(0"0(0#0#43"/Users/omniaccess/OmniAccessAutomate/main.m4300911832#2057"    cd /Users/omniaccess/OmniAccessAutomate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-generated-files.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-own-target-headers.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-all-target-headers.hmap -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-project-headers.hmap -F/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator -I/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/include -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources/i386 -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources -include /var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch -c /Users/omniaccess/OmniAccessAutomate/main.m -o /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/omniaccess/OmniAccessAutomate/FirstView.xib
-s298903630.620036
-e298903631.088398
-r1
-xCompileXIB
-x/Users/omniaccess/OmniAccessAutomate/FirstView.xib
-o/* com.apple.ibtool.document.warnings */
-o/Users/omniaccess/OmniAccessAutomate/FirstView.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on FirstResponder.
-lSLF07#2@24"CompileXIB FirstView.xib298903630#298903631#0(215"/* com.apple.ibtool.document.warnings *//Users/omniaccess/OmniAccessAutomate/FirstView.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on FirstResponder.1(22@109"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on FirstResponder.298903631#18446744073709551615#0#0(6@50"/Users/omniaccess/OmniAccessAutomate/FirstView.xib296750763#18446744073709551615#0#18446744073709551615#0#0"0(0#0#50"/Users/omniaccess/OmniAccessAutomate/FirstView.xib4300911832#485"    cd /Users/omniaccess/OmniAccessAutomate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/FirstView.nib /Users/omniaccess/OmniAccessAutomate/FirstView.xib0#
-
-CCompileXIB /Users/omniaccess/OmniAccessAutomate/MainWindow.xib
-s298903622.264692
-e298903630.619890
-r1
-xCompileXIB
-x/Users/omniaccess/OmniAccessAutomate/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib298903622#298903630#0(0"0(0#0#51"/Users/omniaccess/OmniAccessAutomate/MainWindow.xib4300911832#487"    cd /Users/omniaccess/OmniAccessAutomate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/MainWindow.nib /Users/omniaccess/OmniAccessAutomate/MainWindow.xib0#
-
-CCompileXIB /Users/omniaccess/OmniAccessAutomate/SecondView.xib
-s298903622.265417
-e298903631.065910
-r1
-xCompileXIB
-x/Users/omniaccess/OmniAccessAutomate/SecondView.xib
-lSLF07#2@25"CompileXIB SecondView.xib298903622#298903631#0(0"0(0#0#51"/Users/omniaccess/OmniAccessAutomate/SecondView.xib4300911832#487"    cd /Users/omniaccess/OmniAccessAutomate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/SecondView.nib /Users/omniaccess/OmniAccessAutomate/SecondView.xib0#
-
-CCpResource build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccess-MNS-Logo-PIX.png ../Pictures/OmniAccess-MNS-Logo-PIX.png
-s298903631.066006
-e298903631.428684
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccess-MNS-Logo-PIX.png
-x../Pictures/OmniAccess-MNS-Logo-PIX.png
-lSLF07#2@44"Copy ../Pictures/OmniAccess-MNS-Logo-PIX.png298903631#298903631#0(0"0(0#0#76"/Users/omniaccess/OmniAccessAutomate/../Pictures/OmniAccess-MNS-Logo-PIX.png4300911832#488"    cd /Users/omniaccess/OmniAccessAutomate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/omniaccess/OmniAccessAutomate/../Pictures/OmniAccess-MNS-Logo-PIX.png /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app0#
-
-CCpResource build/Debug-iphonesimulator/OmniAccessAutomate.app/icon.png ../icon.png
-s298903631.067808
-e298903631.420840
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/OmniAccessAutomate.app/icon.png
-x../icon.png
-lSLF07#2@16"Copy ../icon.png298903631#298903631#0(0"0(0#0#48"/Users/omniaccess/OmniAccessAutomate/../icon.png4300911832#460"    cd /Users/omniaccess/OmniAccessAutomate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/omniaccess/OmniAccessAutomate/../icon.png /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app0#
-
-CGenerateDSYMFile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app.dSYM /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate
-s298903634.376719
-e298903634.400084
-r1
-xGenerateDSYMFile
-x/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app.dSYM
-x/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate
-lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/OmniAccessAutomate.app.dSYM build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate298903634#298903634#0(0"0(0#0#106"/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate4300911832#410"    cd /Users/omniaccess/OmniAccessAutomate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate -o /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app.dSYM0#
-
-CLd /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate normal i386
-s298903633.806266
-e298903634.376598
-r1
-xLd
-x/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate
-xnormal
-xi386
-lSLF07#2@111"Link /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate298903633#298903634#0(0"0(0#0#0"4300911832#909"    cd /Users/omniaccess/OmniAccessAutomate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator -F/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator -filelist /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/Objects-normal/i386/OmniAccessAutomate.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/OmniAccessAutomate0#
-
-CProcessInfoPlistFile /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/Info.plist OmniAccessAutomate-Info.plist
-s298903622.240937
-e298903622.264607
-r1
-xProcessInfoPlistFile
-x/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/Info.plist
-xOmniAccessAutomate-Info.plist
-lSLF07#2@37"Process OmniAccessAutomate-Info.plist298903622#298903622#0(0"0(0#0#66"/Users/omniaccess/OmniAccessAutomate/OmniAccessAutomate-Info.plist4300911832#506"    cd /Users/omniaccess/OmniAccessAutomate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OmniAccessAutomate-Info.plist -genpkginfo /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app/Info.plist0#
-
-CProcessPCH /var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch.gch OmniAccessAutomate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s298903631.428826
-e298903633.394135
-r1
-xProcessPCH
-x/var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch.gch
-xOmniAccessAutomate_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@40"Precompile OmniAccessAutomate_Prefix.pch298903631#298903633#0(0"0(0#0#66"/Users/omniaccess/OmniAccessAutomate/OmniAccessAutomate_Prefix.pch4300911832#1940"    cd /Users/omniaccess/OmniAccessAutomate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-generated-files.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-own-target-headers.hmap -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-all-target-headers.hmap -iquote /Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/OmniAccessAutomate-project-headers.hmap -F/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator -I/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/include -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources/i386 -I/Users/omniaccess/OmniAccessAutomate/build/OmniAccessAutomate.build/Debug-iphonesimulator/OmniAccessAutomate.build/DerivedSources -c /Users/omniaccess/OmniAccessAutomate/OmniAccessAutomate_Prefix.pch -o /var/folders/7V/7Va1Y0zQH7W7DYtHRUY2wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OmniAccessAutomate_Prefix-gkcawempzjcscodryriwqyiyxuog/OmniAccessAutomate_Prefix.pch.gch0#
-
-CTouch /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app
-s298903634.400186
-e298903634.412591
-r1
-xTouch
-x/Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app
-lSLF07#2@93"Touch /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app298903634#298903634#0(0"0(0#0#0"4300911832#285"    cd /Users/omniaccess/OmniAccessAutomate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/omniaccess/OmniAccessAutomate/build/Debug-iphonesimulator/OmniAccessAutomate.app0#
-
